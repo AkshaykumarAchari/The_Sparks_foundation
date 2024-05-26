@@ -24,7 +24,7 @@ C:\xampp\htdocs\
 - Open Xamp Control Panel. Click on Start button near Apache and MySQL.
 - Open browser type the following into search bar.
 ```
-http://localhost/Sparks-Foundation-main/firsttime.php
+http://localhost/Sparks-Foundation-main
 ```
 - If everything works fine you would see this on your browser.
 ```
